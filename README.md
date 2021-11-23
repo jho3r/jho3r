@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jho3r
 - 👀 I’m interested in web development, android apps, data science, project management, marketing and more...
-- 🌱 I’m currently learning web development with node and data science with python
+- 🌱 I’m currently learning web development with node and mobile development with Flutter
 - 📫 How to reach me: jhoer.perez@gmail.com
 
 
